@@ -1,0 +1,6 @@
+data/mysql
+**/*.pyc
+__pycache__/
+.git
+.gitignore
+*.db
